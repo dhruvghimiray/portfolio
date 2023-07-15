@@ -1,0 +1,17 @@
+.test2 {
+    position: absolute;
+    height: 60vh;
+    width: 90vw;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    box-sizing: border-box;
+  }
+
+
+  
+  
