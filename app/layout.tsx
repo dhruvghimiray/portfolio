@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Dhruv Ghimiray - Web Developer",
     description:
-      "Professional web developer with expertise in React, Next.js, and other modern web technologies. Explore my work, learn about my skills, and get in touch for collaboration.",
+      "Professional web developer with expertise in React.js and other modern web technologies. Explore my work, learn about my skills, and get in touch for collaboration.",
 
     url: "#",
     siteName: "Dhruv Ghimiray - Web Developer",
