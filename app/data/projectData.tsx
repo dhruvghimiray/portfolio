@@ -59,8 +59,8 @@ export const projectData: ProjectsDataType[] = [
       rightMobile: portfolioRight,
     },
     links: {
-      github: "aaa",
-      website: "ssss",
+      github: "https://github.com/dhruvghimiray/portfolio",
+      website: "https://portfolio-dhruvghimiray.vercel.app/",
     },
   },
 
@@ -74,7 +74,7 @@ export const projectData: ProjectsDataType[] = [
     pitch:
       "Discover the capabilities of Dijkstra's algorithm with this advanced visualizer. Unravel complex mazes, analyze optimal routes, and observe real-time shortest path generation.",
     desc: "Immerse yourself in the realm of pathfinding algorithms with my captivating visualization tool. Witness the power of Dijkstra's Algorithm as it uncovers the shortest path amidst complex mazes and obstacles. Explore the dynamic process of finding optimal routes, showcasing my proficiency in algorithm implementation and problem-solving. ",
-    tech: [""],
+    tech: ["Next JS", "tailwind CSS", "Typescript", "Javascript", "Redux" ],
     images: {
       coverWeb: pathfindingVisualizer,
       coverMobile: pathfinderMain,
