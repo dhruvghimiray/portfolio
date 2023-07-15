@@ -13,7 +13,7 @@ import { Metadata } from "next"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("#"),
+  metadataBase: new URL("https://portfolio-dhruvghimiray.vercel.app/"),
   themeColor: "black",
 
   title: "Dhruv Ghimiray - Web Developer",

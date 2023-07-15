@@ -1,6 +1,3 @@
-/** @format */
-
-"use client"
 import { useAppSelector, useAppDispatch } from "@/lib/redux/hooks"
 import { useEffect } from "react"
 import { setScreenWidth } from "@/lib/redux/slices/globalSlice"
@@ -20,7 +17,7 @@ export function useGlobalEffects() {
     return () => {
       window.removeEventListener("resize", handleResize)
     }
-  }, [])
+  }, [dispatch]) // Include 'dispatch' in the dependency array
 
   // Add or remove dark class on load
   useEffect(() => {
@@ -31,7 +28,7 @@ export function useGlobalEffects() {
       document.documentElement.classList.add("light")
       document.documentElement.classList.remove("dark")
     }
-  }, [])
+  }, [darkMode]) // Include 'darkMode' in the dependency array
 
   // Disable scroll when sider is visible
   useEffect(() => {
@@ -45,5 +42,5 @@ export function useGlobalEffects() {
     return () => {
       document.body.style.overflow = "unset"
     }
-  }, [sider])
+  }, [sider]) // Include 'sider' in the dependency array
 }
