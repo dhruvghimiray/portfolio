@@ -52,8 +52,8 @@ export const personalData = {
     pos: [
       {
         title: "Web Developer Intern",
-        date: "08/2022 - Present",
-        location: "COTT • India",
+        date: " ",
+        location: "India",
         desc: (
           <>
             <p>
