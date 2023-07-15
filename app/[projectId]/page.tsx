@@ -31,11 +31,11 @@ export async function generateMetadata(
     openGraph: {
       title: `Dhruv Ghimiray${" - " + project?.title}`,
       description: project?.pitch,
-      url: `https://levandolidze.com/${projectId}`,
+      url: `# ${projectId}`,
       siteName: "Dhruv Ghimiray - Web Developer",
       images: [
         {
-          url: "https://i.imgur.com/pKweUJY.png",
+          url: "#",
           width: 1200,
           height: 630,
         },
