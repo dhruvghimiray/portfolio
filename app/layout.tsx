@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     description:
       "Professional web developer with expertise in React.js and other modern web technologies. Explore my work, learn about my skills, and get in touch for collaboration.",
 
-    url: "#",
+    url: "https://portfolio-dhruvghimiray.vercel.app/",
     siteName: "Dhruv Ghimiray - Web Developer",
     images: [
       {

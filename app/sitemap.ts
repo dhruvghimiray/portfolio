@@ -3,7 +3,7 @@
 import { MetadataRoute } from "next"
 import { projectData } from "./data/projectData"
 
-const baseURL = "#"
+const baseURL = "https://portfolio-dhruvghimiray.vercel.app/"
 
 const projectUrls = projectData.map(project => {
   return { url: baseURL + "/" + project.id, lastModified: new Date() }
