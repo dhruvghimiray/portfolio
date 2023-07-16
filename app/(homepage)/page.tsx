@@ -2,6 +2,7 @@
 
 "use client"
 
+import { Analytics } from '@vercel/analytics/react';
 
 import React, { useEffect } from "react";
 import About from "./about/About";
@@ -29,6 +30,9 @@ export default function Home() {
       <Projects />
       <Technologies />
       <Experience />
+
+      <Analytics />
+
 
     </div>
   );
