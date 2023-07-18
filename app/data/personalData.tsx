@@ -67,7 +67,7 @@ export const personalData = {
 
             <br />
             <p>
-              Furthermore, along with my web development responsibilities, I'm getting the 
+              Furthermore, along with my web development responsibilities, I&apos;m getting the 
               opportunity to work on developing projects using advanced technologies during 
               my internship at Venuratech Solutions. These hands-on experiences are allowing
               me to deepen my understanding of web development further. Overall, my ongoing
