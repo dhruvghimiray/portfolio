@@ -52,24 +52,27 @@ export const personalData = {
     pos: [
       {
         title: "Web Developer Intern",
-        date: " ",
+        date: "July 2023 - Present",
         location: "India",
         desc: (
           <>
             <p>
-              During my internship at Venuratech Solutions, I worked as a web developer and
-              gained experience in HTML, CSS and Javascript along with it, As a beginner web 
-              developer, I was also able to gain valuable experience working with React.js, 
-              React Router, and GSAP. I gained valuable skills in web development and had the 
-              opportunity to work on real-life projects.
+              During my ongoing internship at Venuratech Solutions, I am currently working as a web
+              developer and gaining experience in HTML, CSS, and Javascript. Additionally, as a 
+              beginner web developer, I am actively pursuing valuable experience in React.js, React
+              Router, and GSAP. I am acquiring essential skills in web development and actively
+              working on real-life projects.
 
             </p>
 
             <br />
             <p>
-              Overall, my internship at Venuratech Solutions was a great learning experience.
-              I worked on developing small projects using advance technologies and was able to
-              learn more about web development through hands-on experience.
+              Furthermore, along with my web development responsibilities, I'm getting the 
+              opportunity to work on developing projects using advanced technologies during 
+              my internship at Venuratech Solutions. These hands-on experiences are allowing
+              me to deepen my understanding of web development further. Overall, my ongoing
+              internship continues to be a highly valuable learning experience that is expanding
+              my knowledge and skills in the field.
             </p>
           </>
         ),
