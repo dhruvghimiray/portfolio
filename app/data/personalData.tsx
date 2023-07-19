@@ -45,7 +45,6 @@ export const personalData = {
           technologies.
         </p>
         <br />
-
         <p></p>
       </>
     ),
@@ -57,24 +56,21 @@ export const personalData = {
         desc: (
           <>
             <p>
-            During my ongoing internship at Venuratech Solutions, I am currently working as a web
+              During my ongoing internship at Venuratech Solutions, I am currently working as a web
               developer and gaining experience in HTML, CSS, and Javascript. Additionally, as a 
               beginner web developer, I am actively pursuing valuable experience in React.js, React
               Router, and GSAP. I am acquiring essential skills in web development and actively
               working on real-life projects.
-
             </p>
-
             <br />
             <p>
-            Furthermore, along with my web development responsibilities, I'm getting the 
+              Furthermore, along with my web development responsibilities, I&apos;m getting the 
               opportunity to work on developing projects using advanced technologies during 
               my internship at Venuratech Solutions. These hands-on experiences are allowing
               me to deepen my understanding of web development further. Overall, my ongoing
               internship continues to be a highly valuable learning experience that is expanding
               my knowledge and skills in the field.
             </p>
-
           </>
         ),
         tech: [
@@ -90,4 +86,4 @@ export const personalData = {
       },
     ],
   },
-}
+};
