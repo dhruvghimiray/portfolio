@@ -52,30 +52,29 @@ export const personalData = {
     pos: [
       {
         title: "Web Developer Intern",
-        date: " ",
+        date: "July 2023 - Present",
         location: "India",
         desc: (
           <>
             <p>
-              In my current internship at Venuratech Solutions, I am serving as
-              a web developer, where I am honing my expertise in HTML, CSS, and
-              Javascript. Besides, as a novice in web development, I am
-              enthusiastically seeking opportunities to gain hands-on experience
-              in React.js, React Router, and GSAP. Engaging in real-life
-              projects allows me to acquire indispensable skills in the field of
-              web development.
+            During my ongoing internship at Venuratech Solutions, I am currently working as a web
+              developer and gaining experience in HTML, CSS, and Javascript. Additionally, as a 
+              beginner web developer, I am actively pursuing valuable experience in React.js, React
+              Router, and GSAP. I am acquiring essential skills in web development and actively
+              working on real-life projects.
+
             </p>
 
             <br />
             <p>
-              Additionally, as part of my web development responsibilities, my
-              ongoing internship at Venuratech Solutions offers me the chance to
-              work on projects involving advanced technologies. These practical
-              experiences are significantly enriching my comprehension of web
-              development. Overall, the internship continues to be an immensely
-              valuable learning journey that expands both my knowledge and
-              skills in this domain.
+            Furthermore, along with my web development responsibilities, I'm getting the 
+              opportunity to work on developing projects using advanced technologies during 
+              my internship at Venuratech Solutions. These hands-on experiences are allowing
+              me to deepen my understanding of web development further. Overall, my ongoing
+              internship continues to be a highly valuable learning experience that is expanding
+              my knowledge and skills in the field.
             </p>
+
           </>
         ),
         tech: [
@@ -91,4 +90,4 @@ export const personalData = {
       },
     ],
   },
-};
+}
