@@ -10,8 +10,8 @@ export const personalData = {
     role: "Web Developer",
     desc: (
       <p>
-        I have a passion for web development and enjoy building digital
-        experiences using a variety of technologies.
+        I'm a Full Stack Developer and AI/ML enthusiast who enjoys crafting
+        digital experiences using a variety of technologies.
       </p>
     ),
     greetings: "Yo! My name is",
@@ -29,21 +29,24 @@ export const personalData = {
     desc: (
       <>
         <p>
-          I&apos;m an enthusiastic Web Developer with a knack for building
-          compelling websites and applications. I started my journey with HTML
-          and CSS. I then learned Java and data structures before picking up web
-          development again. I love to experiment an use different web
-          technologies and make interactive and useful web apps
+          I'm a passionate Full Stack Developer and AI/ML enthusiast with a
+          strong background in creating comprehensive web products. My journey
+          began with HTML and CSS, and after delving into Java and data
+          structures, I returned to web development with a newfound enthusiasm.
+          My goal is to craft compelling and interactive web applications using
+          a variety of technologies.
         </p>
         <br />
         <p>
-          I&apos;m familiar with many web technologies and have been able to
-          gain valuable experience in different areas of web development such as
-          front-end development. I love to use different technologies in my web
-          app such as React.js, Next.js, React Router, and GSAP. I am excited to
-          continue learning more about web development and exploring new
-          technologies.
+          As a Full Stack Developer, I have hands-on experience with diverse web
+          technologies. On the front-end, I specialize in using React.js,
+          Next.js, React Router, and GSAP to build engaging user interfaces. For
+          the backend, I am proficient in PHP and Laravel, a PHP framework, to
+          create robust and scalable web solutions. Additionally, I leverage
+          tools like React.js and Tailwind CSS to enhance the overall user
+          experience of my web applications.
         </p>
+
         <br />
         <p></p>
       </>
@@ -56,20 +59,21 @@ export const personalData = {
         desc: (
           <>
             <p>
-              During my ongoing internship at Venuratech Solutions, I am currently working as a web
-              developer and gaining experience in HTML, CSS, and Javascript. Additionally, as a 
-              beginner web developer, I am actively pursuing valuable experience in React.js, React
-              Router, and GSAP. I am acquiring essential skills in web development and actively
+              During my ongoing internship at Venuratech Solutions, I am
+              currently working as a Full Stack Web Developer and gaining
+              experience in in React.js, React Router,GSAP and PHP, PHP Laravel
+              . I am acquiring essential skills in web development and actively
               working on real-life projects.
             </p>
             <br />
             <p>
-              Furthermore, along with my web development responsibilities, I&apos;m getting the 
-              opportunity to work on developing projects using advanced technologies during 
-              my internship at Venuratech Solutions. These hands-on experiences are allowing
-              me to deepen my understanding of web development further. Overall, my ongoing
-              internship continues to be a highly valuable learning experience that is expanding
-              my knowledge and skills in the field.
+              Furthermore, along with my web development responsibilities,
+              I&apos;m getting the opportunity to work on developing projects
+              using advanced technologies during my internship at Venuratech
+              Solutions. These hands-on experiences are allowing me to deepen my
+              understanding of web development further. Overall, my ongoing
+              internship continues to be a highly valuable learning experience
+              that is expanding my knowledge and skills in the field.
             </p>
           </>
         ),
@@ -77,8 +81,11 @@ export const personalData = {
           "HTML",
           "CSS",
           "JavaScript",
-          "React",
-          "Bootstrap 5",
+          "React JS",
+          "PHP",
+          "PHP Laravel",
+          "Tailwind CSS",
+          "SCSS",
           "React Router",
           "TypeScript",
           "Tailwind",

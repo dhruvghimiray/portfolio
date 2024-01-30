@@ -20,10 +20,8 @@ import {
 import { useGlobalEffects } from "../hooks/useGlobalEffects";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
-import Resume from "./resume/resume";
 
 // for pdf button
-
 
 type RouteType = {
   route: string;
@@ -42,7 +40,7 @@ export const routes = [
   },
   {
     name: "experience",
-  }
+  },
 ];
 
 export default function Navbar() {
@@ -132,8 +130,6 @@ export default function Navbar() {
             </li>
           )}
 
-          
-
           <li className=" border-l-2 border-slate-700 px-4">
             <button
               aria-label="toggle dark mode"
@@ -169,11 +165,6 @@ export default function Navbar() {
               <Icon path={mdiGithub} size={1.1} />
             </a>
           </li>
-
-          <li className={`fixed  z-10 `}>
-            <Resume />
-          </li>
-
         </ul>
       </nav>
 
@@ -223,10 +214,6 @@ export default function Navbar() {
                 )}
               </button>
             </li>
-
-            <li className="mx-auto mb-8 w-fit">
-            <Resume />
-          </li>
 
             {pathname === "/" ? (
               routes.map((route) => (
