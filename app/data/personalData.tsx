@@ -10,7 +10,7 @@ export const personalData = {
     role: "Web Developer",
     desc: (
       <p>
-        I'm a Full Stack Developer and AI/ML enthusiast who enjoys crafting
+        I&apos;m a Full Stack Developer and AI/ML enthusiast who enjoys crafting
         digital experiences using a variety of technologies.
       </p>
     ),
@@ -29,7 +29,7 @@ export const personalData = {
     desc: (
       <>
         <p>
-          I'm a passionate Full Stack Developer and AI/ML enthusiast with a
+          I&apos;m a passionate Full Stack Developer and AI/ML enthusiast with a
           strong background in creating comprehensive web products. My journey
           began with HTML and CSS, and after delving into Java and data
           structures, I returned to web development with a newfound enthusiasm.
